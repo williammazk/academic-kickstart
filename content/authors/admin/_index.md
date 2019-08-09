@@ -22,8 +22,11 @@ bio: I am a PhD student doing research in stochastic analysis and mathematical f
 
 interests:
 - Stochastic Analysis
+
 - Mathematical Finance
+
 - Applied Probability
+
 - Numerical Computing
 
 education:
@@ -31,13 +34,13 @@ education:
   - course: PhD in Mathematics
     institution: Monash University
     year: 2019-
-  - course: Honours in Mathematics (Probability)
+  - course: Honours in Probability
     institution: Monash University
     year: 2018
   - course: MSc in Financial Mathematics (Discontinued)
     institution: Monash University
     year: 2017
-  - course: BSc in Mathematics and Computational Science
+  - course: BSc in Mathematics
     institution: Shanghai University
     year: 2012-2016
 
