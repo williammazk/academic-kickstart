@@ -21,9 +21,10 @@ organizations:
 bio: I am a PhD student doing research in stochastic analysis and mathematical finance. I work with Dr Ivan Guo and Dr Kihun Nam.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Stochastic Analysis
+- Mathematical Finance
+- Applied Probability
+- Numerical Computing
 
 education:
   courses:
