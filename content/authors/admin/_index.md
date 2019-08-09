@@ -18,7 +18,7 @@ organizations:
   url: "https://www.monash.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD student doing research in stochastic analysis and mathematical finance. I work with Dr Ivan Guo and Dr Kihun Nam.
 
 interests:
 - Artificial Intelligence
