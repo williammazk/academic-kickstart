@@ -28,15 +28,18 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mathematics
+    institution: Monash University
+    year: 2019-
+  - course: Honours in Mathematics (Probability)
+    institution: Monash University
+    year: 2018
+  - course: MSc in Financial Mathematics (Discontinued)
+    institution: Monash University
+    year: 2017
+  - course: BSc in Mathematics and Computational Science
+    institution: Shanghai University
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
