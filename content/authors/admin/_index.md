@@ -18,15 +18,12 @@ organizations:
   url: "https://www.monash.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student doing research in stochastic analysis and mathematical finance. I work with Dr Ivan Guo and Dr Kihun Nam.
+bio: Shijia is a PhD student doing research in stochastic analysis and mathematical finance at Monash University.
 
 interests:
 - Stochastic Analysis
-
 - Mathematical Finance
-
 - Applied Probability
-
 - Numerical Computing
 
 education:
@@ -36,10 +33,7 @@ education:
     year: 2019-
   - course: Honours in Probability
     institution: Monash University
-    year: 2018
-  - course: MSc in Financial Mathematics (Discontinued)
-    institution: Monash University
-    year: 2017
+    year: 2017-2018
   - course: BSc in Mathematics
     institution: Shanghai University
     year: 2012-2016
@@ -51,22 +45,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:shijia.jin@monash.edu'  # For a direct email link, use "mailto:shijia.jin@monash.edu".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
+ - icon: cv
+   icon_pack: ai
+   link: Vita.pdf
+-  icon: linkedin
+   icon_pack: fas
+   link: 'https://www.linkedin.com/in/shijia-jin-98a422112/'
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
