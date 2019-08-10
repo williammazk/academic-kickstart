@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mathematics
+  - course: Ph.D. in Mathematics
     institution: Monash University
-    year: 2019-
+    year: 2019 -
   - course: Honours in Probability
     institution: Monash University
-    year: 2017-2018
-  - course: BSc in Mathematics
+    year: 2017 - 2018
+  - course: B.Sc. in Mathematics
     institution: Shanghai University
-    year: 2012-2016
+    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Hello! Welcome to my page. My name is Shijia Jin and I am a PhD student in School of Mathematics at Monash University. 
+Hello! Welcome to my page. My name is Shijia Jin and I am a PhD student in School of Mathematics at Monash University. My research is focused on stochastic analysis and mathematical finance, working with Dr Ivan Guo and Dr Kihun Nam.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I obtained my bachelor's degree in mathematics and computational science from Shanghai University. During my first-year study in master of financial mathematics at Monash University, I decided to pursue a career in quantitative research, and hence transferred to honours degree for more training in analysis and probability.
