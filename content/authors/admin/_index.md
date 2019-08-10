@@ -51,9 +51,7 @@ social:
  - icon: cv
    icon_pack: ai
    link: Vita.pdf
--  icon: linkedin
-   icon_pack: fas
-   link: 'https://www.linkedin.com/in/shijia-jin-98a422112/'
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
