@@ -50,7 +50,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
   - icon: cv
     icon_pack: ai
-    link: "static/Vita.pdf"
+    link: "Vita.pdf"
 -  icon: linkedin
    icon_pack: fab
    link: "https://www.linkedin.com/in/shijia-jin-98a422112"
