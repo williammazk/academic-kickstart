@@ -45,13 +45,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:shijia.jin@monash.edu'  # For a direct email link, use "mailto:shijia.jin@monash.edu".
+  link: "mailto:shijia.jin@monash.edu"  # For a direct email link, use "mailto:shijia.jin@monash.edu".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
  - icon: cv
    icon_pack: ai
    link: Vita.pdf
-
+-  icon: linkedin
+   icon_pack: fas
+   link: "https://www.linkedin.com/in/shijia-jin-98a422112"
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
